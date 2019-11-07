@@ -1,0 +1,41 @@
+h1{
+  text-align: center;
+
+}
+.hor{
+  float:left;
+}
+.cent
+{
+  position: absolute;
+  margin: auto;
+  top: 70px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100px;
+  float: left;
+}
+p,b,button{
+  margin:auto;
+  background-color: rgb(234,178,245);
+  text-align :center;
+}
+button{
+  float :left;
+  width:70px;
+  height:70px;
+  margin: 20px;
+  text-align:center;
+  border:solid white 1px;
+  border-radius: 5px;
+}
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRldoghaDfgDCrF34Bmwycs3buqBClQzxruzpHqbTnOBMSmH5eG");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.border{
+  border: solid green 3px;
+}
